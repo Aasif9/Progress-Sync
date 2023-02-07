@@ -17,9 +17,14 @@ A Java-based project built using JFrame and Jswing, designed to manage and maint
 <b>Technical Requirements:</b>
 
 Java 1.8 or higher
+<br>
 JFrame
+<br>
 Jswing
+<br>
 SQL Database
+<br>
+
 <b>Steps to run the project:</b>
 
 Clone the repository to your local machine
