@@ -5,13 +5,13 @@ A Java-based project built using JFrame and Jswing, designed to manage and maint
 <br>
 Features
 <br>
-Login Page:Both student and admin can log in to the system using their credentials.
+<b>Login Page</b>:Both student and admin can log in to the system using their credentials.
 <br>
-Student Information: The system can store the personal information of each student including name, roll number, course, etc.
+<b>Student Information:</b> The system can store the personal information of each student including name, roll number, course, etc.
 <br>
-Result Section: The system allows to store the marks of each student in various subjects and calculate the overall percentage.
+<b>Result Section:</b> The system allows to store the marks of each student in various subjects and calculate the overall percentage.
 <br>
-Marks View: Students can view their marks and check their performance.
+<b>Marks View:</b> Students can view their marks and check their performance.
 <br>
 Admin Section: The admin can access all the functionalities and make any necessary changes.
 <br>
