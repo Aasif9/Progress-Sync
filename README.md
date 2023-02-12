@@ -34,5 +34,4 @@ Import the project in your Java IDE
 Connect the project to the SQL database
 <br>
 Run the project and use the credentials to log in to the system.
-<br>
 
