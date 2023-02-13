@@ -27,11 +27,11 @@ SQL Database
 
 <b>Steps to run the project:</b>
 
-Clone the repository to your local machine
+Clone the repository to your local machine.
 <br>
-Import the project in your Java IDE
+Import the project in your Java IDE.
 <br>
-Connect the project to the SQL database
+Connect the project to the SQL database.
 <br>
-Run the project and use the credentials to log in to the system.
+Run the project and use the credentials to log into the system.
 
