@@ -2,7 +2,7 @@
 
 A Java-based project built using JFrame and Jswing,designed to manage and maintain the academic records of students.
 
-<b>Features:</b>
+<h3>Features:</h3>
 
 <b>Login Page:</b> Both student and admin can log in to the system using their credentials.
 
@@ -14,7 +14,7 @@ A Java-based project built using JFrame and Jswing,designed to manage and mainta
 
 <b>Admin Section:</b> The admin can access all the functionalities and make any necessary changes.
 
-<b>Technical Requirements:</b>
+<h3>Technical Requirements:</h3>
 
 Java 1.8 or higher
 <br>
@@ -25,7 +25,7 @@ Jswing
 SQL Database
 <br>
 
-<b>Steps to run the project:</b>
+<h3>Steps to run the project:</h3>
 
 Clone the repository to your local machine.
 <br>
