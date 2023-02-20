@@ -1,6 +1,6 @@
 <h1>Student Result Management System</h1>
 
-A Java-based project built using JFrame and Jswing,designed to manage and maintain the academic records of students.
+A Java-based project built using JFrame and Jswing, designed to manage and maintain the academic records of students.
 
 <h3>Features:</h3>
 
