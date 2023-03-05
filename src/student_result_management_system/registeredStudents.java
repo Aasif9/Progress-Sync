@@ -16,9 +16,7 @@ import java.sql.*;
  */
 public class registeredStudents extends javax.swing.JFrame {
 
-    /**
-     * Creates new form registeredStudents
-     */
+   
     public registeredStudents() {
         initComponents();
     }
@@ -178,7 +176,7 @@ public class registeredStudents extends javax.swing.JFrame {
         catch(Exception e){
              JOptionPane.showMessageDialog(null,e.toString());
         }
-    }//GEN-LAST:event_jTable2ComponentShown
+    }
 
     private void formComponentShown(java.awt.event.ComponentEvent evt) {//GEN-FIRST:event_formComponentShown
         try{
