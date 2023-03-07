@@ -4,10 +4,6 @@
  */
 package student_result_management_system;
 
-/**
- *
- * @author user
- */
 public class STUDENT_RESULT_MANAGEMENT_SYSTEM {
 
     /**
