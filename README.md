@@ -1,4 +1,4 @@
-<h1>Student Result Management System</h1>
+<h1>Progress Sync</h1>
 
 A Java-based project built using JFrame and Jswing, designed to manage and maintain the academic records of students.
 
